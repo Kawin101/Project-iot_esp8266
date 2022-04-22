@@ -8,9 +8,9 @@ const int sensorpin = A0; //กำหนด ตัวแปร Pin ที่อ�
 int sensorValue=0; //กำหนดตัวแปร เก็บค่า input จาก sensor
 int outputValue=0; //กำหนดตัวแปร เก็บค่า Output จาก sensor
 
-char auth[] = "HY5aH08FIKQPVNNln_GZgqUFUg4lekip";
-char ssid[] = "Yellow_Kaewarpa_2.4G";
-char pass[] = "0817342981";
+char auth[] = "Please input your Auth Token";
+char ssid[] = "Input name wifi";
+char pass[] = "Input Password wifi";
 
 void setup()
 {

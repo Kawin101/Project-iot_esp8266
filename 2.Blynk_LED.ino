@@ -4,11 +4,11 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 // Copy Auth Token จาก Email ที่ได้มาจาก Blynk App
-char auth[] = "zC-CyzDCLOemJDolm3BzNa9A9_reggsz";
+char auth[] = "Please input your Auth Token";
 // ชื่อ Network Wifi
-char ssid[] = "Yellow_Kaewarpa_2.4G";
+char ssid[] = "Input name wifi";
 // รหัสผ่าน
-char pass[] = "0817342981";
+char pass[] = "Input Password wifi";
 
 void setup()
 {
